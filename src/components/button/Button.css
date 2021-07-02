@@ -1,0 +1,17 @@
+.button {
+    padding: 5px 30px;
+    border: 1px solid var(--primary-color);
+    border-radius: var(--border-radius);
+    font-weight: bold;
+    font-size: 12px;
+}
+.primary-button {
+    background-color: var(--primary-color);
+    color: blue;
+}
+.secondary-button {  
+        font-size: 12px ;
+
+    color: var(--primary-color);
+} 
+ 
