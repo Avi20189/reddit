@@ -1,0 +1,22 @@
+.trending-today-section .title{
+   font-size: 15px;
+   font-weight: 600;
+}
+
+.trending-today-section .items{
+    display: flex;
+}
+
+.trending-today-section .items .trending-item {
+    margin: 0px 15px;
+    width: 350px;
+    height: 150px;
+}
+.trending-today-section .items .trending-item:first-child {
+    margin-left: 0px;
+}
+.trending-today-section .items .trending-item:last-child {
+
+}
+
+

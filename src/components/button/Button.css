@@ -1,17 +1,24 @@
 .button {
-    padding: 5px 30px;
+    padding: 7px 35 px;
     border: 1px solid var(--primary-color);
     border-radius: var(--border-radius);
     font-weight: bold;
     font-size: 12px;
 }
+.button:hover{
+    cursor: pointer;
+}
+
 .primary-button {
     background-color: var(--primary-color);
-    color: blue;
+    color: white;
+}
+.primary-button:hover {
+    background-color: rgb(125, 190, 255);
+    border: 1px solid rgb(125, 190, 255);
 }
 .secondary-button {  
         font-size: 12px ;
 
     color: var(--primary-color);
 } 
- 
