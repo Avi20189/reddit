@@ -1,6 +1,6 @@
 [
     {
-        "image_src": "assets/images/mv800.jpg",
+        "image_src": "/assets/images/mv800.jpg",
         "title": "Street art",
         "description": "Coolest street art pictures ever taken",
         "subreddit": {
@@ -9,7 +9,7 @@
         }
     },
     {
-        "image_src": "assets/images/tiger.jpg",
+        "image_src": "/assets/images/lambo.jpg",
         "title": "Big tiger",
         "description": "Big tiger in the wild searches for food",
         "subreddit": {
@@ -18,7 +18,7 @@
         }
     },
     {
-        "image_src": "assets/images/programming.jpg",
+        "image_src": "/assets/images/aston.jpg",
         "title": "Web development",
         "description": "Top 5 tricks to speed up your web development process and get better results",
         "subreddit": {
@@ -27,7 +27,7 @@
         }
     },
     {
-        "image_src": "assets/images/soccer.jpg",
+        "image_src": "/assets/images/mv800_1.jpg",
         "title": "Epic goal",
         "description": "Watch this goal being made!",
         "subreddit": {
